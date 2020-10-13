@@ -1,6 +1,6 @@
 .DS_Store
 node_modules/
-smoothie/src/firebase/init.js
+init.js
 /dist/
 npm-debug.log*
 yarn-debug.log*
