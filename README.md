@@ -1,8 +1,24 @@
 # smoothie
 
-> A Vue.js project
+> A Vue.js project with firbase 
 
 ## Build Setup
+
+#In firabse add a new project 
+
+in firestore add a new collection 'smoothies'
+each collection has {
+title: 'string',
+slug:'string',
+ingredients:[],
+}
+
+#install firebase
+npm install firebase --save
+
+#In src/firestore/init.js
+copy instructions to connect firebase with your app
+
 
 ``` bash
 # install dependencies
